@@ -1,0 +1,10 @@
+CXX = g++
+INCPATH = -I/mingw64/include/openblas
+CLANGPP = clang++
+CC  = gcc
+MPICC  = mpicc
+MPICXX = mpic++
+OMP = -fopenmp
+LIBPTHREAD = -lpthread
+TBB = -ltbb12
+BLAS= -lopenblas
